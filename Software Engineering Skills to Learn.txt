@@ -1,0 +1,28 @@
+Useful Links with stuff to maybe learn:
+
+VS Code Tips:
+https://www.youtube.com/watch?v=ifTF3ags0XI&ab_channel=Fireship
+
+Web Stack Options:
+https://www.youtube.com/watch?v=Sxxw3qtb3_g&ab_channel=Fireship
+
+Data Analysis with Python for Excel Users:
+https://www.youtube.com/watch?v=WcDaZ67TVRo&ab_channel=freeCodeCamp.org
+
+Google Certificates:
+https://grow.google/certificates/#?modal_active=none
+
+Better CSS:
+https://www.youtube.com/watch?v=Qhaz36TZG5Y&ab_channel=Fireship
+
+JavaScript Tips:
+https://www.youtube.com/watch?v=Mus_vwhTCq0&ab_channel=Fireship
+
+Open-Source Stuff to Potentially Use:
+https://www.youtube.com/watch?v=qXUl3VsbA6o&ab_channel=Fireship
+
+JavaScript Basics
+https://www.coursera.org/learn/javascript-basics
+
+Super Useful Web App Dev Tools (Such as Manually move CSS instead of typing it in
+https://www.youtube.com/watch?v=U_gANjtv28g&ab_channel=Fireship
