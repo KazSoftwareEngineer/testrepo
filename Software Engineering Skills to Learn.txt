@@ -26,3 +26,6 @@ https://www.coursera.org/learn/javascript-basics
 
 Super Useful Web App Dev Tools (Such as Manually move CSS instead of typing it in
 https://www.youtube.com/watch?v=U_gANjtv28g&ab_channel=Fireship
+
+Test Tips
+Here's where a link would go
